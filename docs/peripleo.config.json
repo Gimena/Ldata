@@ -3,10 +3,10 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "VisitPlus",
-      "format": "LINKED_PLACES",
-      "src": "./data/VisitPlus-UK.lp.json",
-      "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
+      "name": "Lugares",
+      "format": "LUGARES_IMAGE",
+      "src": "./data/lugares_13k.jsonld",
+      "attribution": "VisitPlus © <a href=\"https://medium.com/pelagios/interim-report-on-the-latam-gazetteer-of-colonial-latin-america-713613fb592c\" target=\"_blank\"><i>Latam</i> LatAm Project</a>"
     }
   ],
   "facets": [
