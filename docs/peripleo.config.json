@@ -4,7 +4,7 @@
   "data": [
     {
       "name": "Lugares",
-      "format": "LUGARES_IMAGE",
+      "format": "LINKED PASTS",
       "src": "./data/lugares_13k.jsonld",
       "attribution": "VisitPlus © <a href=\"https://medium.com/pelagios/interim-report-on-the-latam-gazetteer-of-colonial-latin-america-713613fb592c\" target=\"_blank\"><i>Latam</i> LatAm Project</a>"
     }
